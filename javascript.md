@@ -15,6 +15,16 @@ Waypoints is a jQuery plugin that makes it easy to execute a function whenever y
 The best responsive slider. Period.
 
 
+### [Unslider](http://flexslider.woothemes.com/)
+
+The jQuery slider that just slides. No fancy effects or unnecessary markup, and it’s less than 3kb.
+
+
+### [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
+
+Magnific Popup is a responsive lightbox & dialog script with focus on performance and providing best experience for user with any device (for jQuery or Zepto.js).
+
+
 ### [Smooth Scroll Plugin](https://github.com/kswedberg/jquery-smooth-scroll)
 
 Automatically make same-page links scroll smoothly
@@ -24,8 +34,6 @@ Automatically make same-page links scroll smoothly
 
 A JavaScript plugin for creating beautiful, graceful, and painless custom dropdowns.
 
-
-### 
 
 
 ## Info
