@@ -5,4 +5,5 @@ A collection of really useful resources for web development curated by
 
 - [CSS](css.md)
 - [JavaScript](javascript.md)
+- [Images](images.md)
 - [Test](testing.md)

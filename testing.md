@@ -11,9 +11,3 @@ Placeholder Images for every case. Webdesign or Print. It's simple and absolutel
 	<img src="http://lorempixel.com/400/200" />
 
 to get your FPO / dummy image.
-
-
-### [Public Domain Images | Free Stock Photos](http://publicdomainarchive.com/)
-
-New 100% Free Stock Photos. Every. Single. Week.
-
