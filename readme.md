@@ -6,5 +6,6 @@ A collection of really useful resources for web development curated by
 - [CSS](css.md)
 - [JavaScript](javascript.md)
 - [Images](images.md)
+- [Interesting](interesting.md)
 - [Test](testing.md)
 - [WordPress](wordpress.md)
