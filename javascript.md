@@ -1,6 +1,5 @@
 # Javascript Resources
 
-
 ## Libraries
 
 ### [jQuery Waypoints](http://imakewebthings.com/jquery-waypoints/)
@@ -47,3 +46,13 @@ Today's resource is a full-width header image, animated using the CSS3 scale pro
 
 ### [Vertical Timeline](http://codyhouse.co/gem/vertical-timeline/)
 Today's resource is an easy to customize, responsive timeline. We used some CSS3 tricks and a bit of jQuery to create some bounce animations that affect desktop users only, while on mobile the structure is more minimal.
+
+
+
+## jQuery
+
+### [jQuery Boilerplate](http://jqueryboilerplate.com/)
+Jump-starting jQuery plugins development
+
+### [jQuery-inlog](http://prinzhorn.github.io/jquery-inlog/)
+jQuery-inlog allows you to easily debug your jQuery code. See exactly what you pass to functions, what they return and in which context (this-value) they were executed.
