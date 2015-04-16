@@ -32,6 +32,9 @@ Parallax Engine that reacts to the orientation of a smart device and mouse
 ### [Sweet Alert](http://tristanedwards.me/sweetalert)
 A beautiful replacement for Javascript's "Alert"
 
+### [Waypoints](http://imakewebthings.com/waypoints/)
+Waypoints is the easiest way to trigger a function when you scroll to an element.
+
 
 ## Info
 
