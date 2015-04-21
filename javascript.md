@@ -35,6 +35,9 @@ A beautiful replacement for Javascript's "Alert"
 ### [Waypoints](http://imakewebthings.com/waypoints/)
 Waypoints is the easiest way to trigger a function when you scroll to an element.
 
+### [Layzr.js](http://callmecavs.github.io/layzr.js/)
+A small, fast, modern, and dependency-free library for lazy loading images.
+
 
 ## Info
 
