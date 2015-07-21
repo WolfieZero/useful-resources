@@ -62,3 +62,10 @@ Jump-starting jQuery plugins development
 
 ### [jQuery-inlog](http://prinzhorn.github.io/jquery-inlog/)
 jQuery-inlog allows you to easily debug your jQuery code. See exactly what you pass to functions, what they return and in which context (this-value) they were executed.
+
+
+
+## AngularJS
+
+### [UI Bootstrap](https://angular-ui.github.io/bootstrap/)
+Bootstrap components written in pure AngularJS by the AngularUI Team
