@@ -3,6 +3,7 @@
 A collection of really useful resources for web development curated by
 [myself](http://wolfiezero.com/).
 
+- [Angular](angular.md)
 - [CSS](css.md)
 - [Images](images.md)
 - [Interesting](interesting.md)
