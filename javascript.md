@@ -53,6 +53,8 @@ Today's resource is a full-width header image, animated using the CSS3 scale pro
 ### [Vertical Timeline](http://codyhouse.co/gem/vertical-timeline/)
 Today's resource is an easy to customize, responsive timeline. We used some CSS3 tricks and a bit of jQuery to create some bounce animations that affect desktop users only, while on mobile the structure is more minimal.
 
+### [Stop writing For loops. Start using underscore.](http://joelhooks.com/blog/2014/02/06/stop-writing-for-loops-start-using-underscorejs/)
+Clean, easy to read, short, no variables, stacks of semi-colons… just plain nice.
 
 
 ## jQuery
