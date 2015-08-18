@@ -4,10 +4,11 @@ A collection of really useful resources for web development curated by
 [myself](http://wolfiezero.com/).
 
 - [Angular](angular.md)
-- [CSS](css.md)
+- [CMS](cms.md)
 - [Images](images.md)
 - [Interesting](interesting.md)
-- [HTML](html.md)
+- [HTML & CSS](html-css.md)
+- [Laravel](laravel.md)
 - [JavaScript](javascript.md)
 - [Navigation](navigation.md)
 - [PHP](php.md)

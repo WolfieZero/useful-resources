@@ -1,5 +1,9 @@
 # Javascript Resources
 
+### [Human JavaScript](http://read.humanjavascript.com/)
+Build powerfully simple browser apps.
+
+
 ## Libraries
 
 ### [jQuery Waypoints](http://imakewebthings.com/jquery-waypoints/)
@@ -37,6 +41,9 @@ Waypoints is the easiest way to trigger a function when you scroll to an element
 
 ### [Layzr.js](http://callmecavs.github.io/layzr.js/)
 A small, fast, modern, and dependency-free library for lazy loading images.
+
+### [Headroom.js](http://wicky.nillia.ms/headroom.js/)
+Give your pages some headroom. Hide your header until you need it.
 
 
 ## Info
