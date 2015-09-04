@@ -12,6 +12,9 @@ Free (do whatever you want) hi-resolution photos. 10 new photos every 10 days
 ### [Little Visuals](http://littlevisuals.co/)
 Sign up to get 7 hi-res images zipped up in your inbox every 7 days. Use them anyway you want.
 
+### [Pexels](http://www.pexels.com/)
+Best free stock photos in one place
+
 
 ### [Gratisography](http://www.gratisography.com/)
 Free high-resolution pictures you can use on your personal and commercial projects.
