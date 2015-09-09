@@ -15,6 +15,8 @@ Sign up to get 7 hi-res images zipped up in your inbox every 7 days. Use them an
 ### [Pexels](http://www.pexels.com/)
 Best free stock photos in one place
 
+### [Tookapic Stock Photos](https://stock.tookapic.com/)
+10000+ High quality free & premium stock photos
 
 ### [Gratisography](http://www.gratisography.com/)
 Free high-resolution pictures you can use on your personal and commercial projects.
