@@ -3,6 +3,9 @@
 
 ## Free Images for Public and Commercial Use
 
+### [LibreStock](http://librestock.com/)
+Search through 31,072 high quality do-what-ever-you-want stock photos
+
 ### [Raumrot](http://www.raumrot.com/)
 FREE -handpicked- stockphotos for your commercial and personal works.
 
