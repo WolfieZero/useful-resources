@@ -14,4 +14,5 @@ A collection of really useful resources for web development curated by
 - [PHP](php.md)
 - [Test](testing.md)
 - [Versioning](versioning.md)
+- [Video](video.md)
 - [WordPress](wordpress.md)
