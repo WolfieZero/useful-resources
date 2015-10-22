@@ -19,3 +19,8 @@ A list containing PHP libraries related to web scraping and data processing
 
 ### [Laracasts](https://laracasts.com/)
 It's Like Netflix for [PHP] Developers
+
+
+### [The League of Extraordinary Packages](http://thephpleague.com/)
+A group of developers who have banded together to build solid, well tested PHP
+packages using modern coding standards.
