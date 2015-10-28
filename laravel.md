@@ -12,3 +12,6 @@ so you can continue to use the amazing Laravel features that you love
 
 ### [Laracasts](https://laracasts.com/)
 It's Like Netflix for [Laravel] Developers
+
+### [LaravelSnippets.com](http://laravelsnippets.com/)
+A repository of useful code snippets for Laravel PHP framework.
