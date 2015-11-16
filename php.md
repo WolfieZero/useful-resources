@@ -11,6 +11,10 @@ Dependency Manager for PHP
 ### [Packagist](https://packagist.org/)
 The PHP Package Repository
 
+### [PHP Package Checklist](http://phppackagechecklist.com/#)
+The following checklist will help ensure that your package is taken seriously 
+by the rest of the PHP community.
+
 ### [PHP Today](https://www.phptoday.org/)
 Reddit-like news for PHP
 
