@@ -4,6 +4,7 @@ A collection of really useful resources for web development curated by
 [myself](http://wolfiezero.com/).
 
 - [Angular](angular.md)
+- [APIs](api.md)
 - [CMS](cms.md)
 - [Images](images.md)
 - [Interesting](interesting.md)
