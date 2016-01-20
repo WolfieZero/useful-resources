@@ -12,7 +12,7 @@ Dependency Manager for PHP
 The PHP Package Repository
 
 ### [PHP Package Checklist](http://phppackagechecklist.com/#)
-The following checklist will help ensure that your package is taken seriously 
+The following checklist will help ensure that your package is taken seriously
 by the rest of the PHP community.
 
 ### [PHP Today](https://www.phptoday.org/)
@@ -24,7 +24,10 @@ A list containing PHP libraries related to web scraping and data processing
 ### [Laracasts](https://laracasts.com/)
 It's Like Netflix for [PHP] Developers
 
-
 ### [The League of Extraordinary Packages](http://thephpleague.com/)
 A group of developers who have banded together to build solid, well tested PHP
 packages using modern coding standards.
+
+### [CLImate](http://climate.thephpleague.com/)
+CLImate allows you to easily output colored text, special formatting, and more.
+It makes output to the terminal clearer and debugging a lot simpler.
