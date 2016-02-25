@@ -3,6 +3,9 @@
 
 ## Free Images for Public and Commercial Use
 
+### [Pexels](http://www.pexels.com/)
+Best free stock photos in one place
+
 ### [LibreStock](http://librestock.com/)
 Search through 31,072 high quality do-what-ever-you-want stock photos
 
@@ -14,9 +17,6 @@ Free (do whatever you want) hi-resolution photos. 10 new photos every 10 days
 
 ### [Little Visuals](http://littlevisuals.co/)
 Sign up to get 7 hi-res images zipped up in your inbox every 7 days. Use them anyway you want.
-
-### [Pexels](http://www.pexels.com/)
-Best free stock photos in one place
 
 ### [Tookapic Stock Photos](https://stock.tookapic.com/)
 10000+ High quality free & premium stock photos
