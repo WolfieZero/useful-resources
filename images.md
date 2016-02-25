@@ -9,6 +9,9 @@ Best free stock photos in one place
 ### [LibreStock](http://librestock.com/)
 Search through 31,072 high quality do-what-ever-you-want stock photos
 
+### [Placeit](https://placeit.net/)
+Fancy iPhone Mockups & Demo Videos. Thousands of Free iPhone, iPad, iMac and Macbook Mockups. No Photoshop Needed!
+
 ### [Raumrot](http://www.raumrot.com/)
 FREE -handpicked- stockphotos for your commercial and personal works.
 
