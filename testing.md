@@ -9,3 +9,9 @@ Placeholder Images for every case. Webdesign or Print. It's simple and absolutel
 	<img src="http://lorempixel.com/400/200" />
 
 to get your FPO / dummy image.
+
+
+### [placehold.it](http://www.placehold.it/)
+A quick and simple image placeholder service.
+
+	<img src="http://placehold.it/400x200">
