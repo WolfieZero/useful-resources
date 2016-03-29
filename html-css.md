@@ -36,5 +36,8 @@ Friendlier HTML form controls with a little CSS magic. Designed for IE9+, as wel
 
 ## Sass
 
+### [GUFF](http://kenwheeler.github.io/guff/)
+A Sass helper framework that includes useful mixins, functions, and more. It’s easy to set up and use.
+
 
 ## LESS
