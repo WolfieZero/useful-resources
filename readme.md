@@ -6,6 +6,7 @@ A collection of really useful resources for web development curated by
 - [Angular](angular.md)
 - [APIs](api.md)
 - [CMS](cms.md)
+- [Email](email.md)
 - [Images](images.md)
 - [Interesting](interesting.md)
 - [HTML & CSS](html-css.md)
