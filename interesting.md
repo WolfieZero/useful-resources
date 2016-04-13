@@ -1,5 +1,8 @@
 # Interesting
 
+### [Blur Admin HTML template](https://github.com/akveo/blur-admin)
+Free Angular Bootstrap Admin Dashboard Template http://akveo.com/blur-admin
+
 ### [HubPress](http://hubpress.io/)
 A web application to build your Blog on GitHub
 
