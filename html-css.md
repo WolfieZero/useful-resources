@@ -4,10 +4,10 @@
 ## Frameworks
 
 ### [Bulma](http://bulma.io/)
-A modern CSS framework based on Flexbox
+A modern CSS framework based on Flexbox (uses Sass)
 
 ### [Sematic](http://semantic-ui.com/)
-User Interface is the language of the web
+User Interface is the language of the web (uses LESS)
 
 
 ## HTML
@@ -20,6 +20,9 @@ Sectioning content elements and friends
 
 ### [HTML5 Reference Poster](http://www.xhtml-lab.com/html5-poster/pdf/HTML5-Reference-Poster.pdf)
 All the elements
+
+### [HEAD](https://github.com/joshbuchea/HEAD)
+A collection of HTML head elements.
 
 
 ## CSS
