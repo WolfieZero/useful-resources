@@ -18,3 +18,8 @@ It's Like Netflix for [Laravel] Developers.
 
 ### [LaravelSnippets.com](http://laravelsnippets.com/)
 A repository of useful code snippets for Laravel PHP framework.
+
+
+## Snippets
+
+### [Fix SSL in Laravel 5 when server is behind a load balancer or a reverse proxy](https://gist.github.com/cjonstrup/5f0924007357f23cabe8)
