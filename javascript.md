@@ -45,6 +45,9 @@ A small, fast, modern, and dependency-free library for lazy loading images.
 ### [Headroom.js](http://wicky.nillia.ms/headroom.js/)
 Give your pages some headroom. Hide your header until you need it.
 
+### [Ply](http://rubaxa.github.io/Ply/)
+Amazing layer/modal/dialog system.
+
 
 ## Info
 
