@@ -19,6 +19,9 @@ It's Like Netflix for [Laravel] Developers.
 ### [LaravelSnippets.com](http://laravelsnippets.com/)
 A repository of useful code snippets for Laravel PHP framework.
 
+### [Quick Admin Panel](https://quickadminpanel.com/)
+Your Laravel adminpanel. In minutes. No packages required. No syntax to learn. 
+Just generate and download clean Laravel code.
 
 ## Snippets
 
