@@ -48,6 +48,9 @@ Give your pages some headroom. Hide your header until you need it.
 ### [Ply](http://rubaxa.github.io/Ply/)
 Amazing layer/modal/dialog system.
 
+### [intercooler.js](http://intercoolerjs.org/)
+Use familiar, declarative HTML attributes to add AJAX to your application.
+
 
 ## Info
 
