@@ -3,6 +3,9 @@
 
 ## Free Images for Public and Commercial Use
 
+### [StockSnap.io](https://stocksnap.io/)
+Hundreds of high resolution images added weekly. Free from copyright restrictions.
+
 ### [Pexels](http://www.pexels.com/)
 Best free stock photos in one place
 
