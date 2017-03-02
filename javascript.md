@@ -3,6 +3,9 @@
 ### [Human JavaScript](http://read.humanjavascript.com/)
 Build powerfully simple browser apps.
 
+### [highlight.js](https://highlightjs.org/)
+Syntax highlighting for the Web
+
 
 ## Libraries
 
