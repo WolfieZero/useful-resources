@@ -9,6 +9,9 @@ Syntax highlighting for the Web
 
 ## Libraries
 
+### [Voca](https://vocajs.com/)
+Voca is a JavaScript library for manipulating strings.
+
 ### [jQuery Waypoints](http://imakewebthings.com/jquery-waypoints/)
 Waypoints is a jQuery plugin that makes it easy to execute a function whenever you scroll to an element.
 
